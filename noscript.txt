@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>HTML noscript Tag</title>
+</head>
+<body>
+<script type = "text/JavaScript">
+document.write("Hello")
+ </script>
+<noscript>
+browser does not support JavaScript!
+ </noscript>
+</body>
+</html>
+
+//noscript tag is used for browser which does not support scripting
+if it does not support it will print browser does not supported

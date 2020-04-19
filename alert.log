@@ -1,0 +1,3 @@
+﻿console.log(alert("I’m JavaScript"));
+VM249:1 undefined
+undefined
